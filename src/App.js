@@ -13,6 +13,8 @@ function App() {
           <a
             className="code-link"
             href="https://github.com/Pidkova/react_weather_app"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             Coded with ♥
           </a>
